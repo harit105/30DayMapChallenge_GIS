@@ -39,6 +39,3 @@ The project successfully identifies and visualizes potential fault zones in the 
 4. **Visualize Fault Zones**: Use Leaflet to create an interactive map displaying the fault zones.
 5. **Run Flask Server**: Start the Flask server to serve the map and files.
 
-## Conclusion
-
-This project provides a comprehensive approach to extracting and visualizing fault zones from gradient data, showcasing the capabilities of Python libraries in geospatial analysis and visualization.
