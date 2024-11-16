@@ -3,6 +3,8 @@
 This project aims to analyze the relationship between innovation barriers and health prevalence across different states. By examining patent counts and health data, we can identify potential correlations and insights.
 
 ## Data Sources
+
+The data used in this analysis is sourced from the [Center for Disease Control and Prevention - PLACES: Local Data for Better Health](https://places.cdc.gov/?view=county).
 - **Patents Data**: Contains the number of patents filed in each state.
 - **Health Prevalence Data**: Contains health prevalence statistics for various conditions across states.
 
