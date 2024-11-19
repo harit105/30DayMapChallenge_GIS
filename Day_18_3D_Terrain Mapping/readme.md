@@ -3,9 +3,7 @@
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run the following commands:
-
-```bash
-# Install dependencies (only the first time)
+**# Install dependencies (only the first time)
 npm install
 
 # Run the local server at localhost:8080
@@ -28,7 +26,7 @@ By leveraging **3D models**, users gain a more intuitive understanding of topogr
 ---
 
 ### Procedural Terrain Using Three.js and WebGL
-This project explores **3D visualization and interactivity** with procedural terrain, created using **Three.js** and **WebGL**. While not based on real-world data, the terrain is dynamically generated with:
+This project explores **3D visualization and interactivity** with procedural terrain, created using **Three.js** and **WebGL**. While not based on real-world data, the terr**ain is dynamically generated with:
 - **Custom shaders** for textures and topography.
 - **Real-time rendering effects** such as shadows, reflections, and lighting.
 
